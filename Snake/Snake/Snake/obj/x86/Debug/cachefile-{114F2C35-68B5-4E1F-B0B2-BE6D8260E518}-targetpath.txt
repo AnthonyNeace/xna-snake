@@ -1,0 +1,13 @@
+Content\Images\spriteSheet_snakeSplash.xnb
+Content\Fonts\Start.xnb
+Content\Images\snakebody.xnb
+Content\Images\snakehead-down.xnb
+Content\Images\snakehead-left.xnb
+Content\Images\snakehead-right.xnb
+Content\Images\snakehead-up.xnb
+Content\Images\apple.xnb
+Content\Images\cherry.xnb
+Content\Images\orange.xnb
+Content\Audio\eating.xnb
+Content\Audio\backgroundTrack.xnb
+Content\Audio\gameOver.xnb

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\snakestitlesheet3.png</Source>
+      <Name>Images\spriteSheet_snakeSplash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\spriteSheet_snakeSplash.xnb</Output>
+      <Time>2013-01-22T00:43:37.2932737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Start.spritefont</Source>
+      <Name>Fonts\Start</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Fonts\Start.xnb</Output>
+      <Time>2013-01-22T06:23:03.3151435-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snakebody.png</Source>
+      <Name>Images\snakebody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\snakebody.xnb</Output>
+      <Time>2013-02-03T04:51:30.03783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snakehead-down.png</Source>
+      <Name>Images\snakehead-down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\snakehead-down.xnb</Output>
+      <Time>2013-02-03T04:51:30.0498307-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snakehead-left.png</Source>
+      <Name>Images\snakehead-left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\snakehead-left.xnb</Output>
+      <Time>2013-02-03T04:51:30.0478306-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snakehead-right.png</Source>
+      <Name>Images\snakehead-right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\snakehead-right.xnb</Output>
+      <Time>2013-02-03T04:51:30.0488306-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\snakehead-up.png</Source>
+      <Name>Images\snakehead-up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\snakehead-up.xnb</Output>
+      <Time>2013-02-03T04:51:30.0458305-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\apple.png</Source>
+      <Name>Images\apple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\apple.xnb</Output>
+      <Time>2013-02-03T05:00:06.5723741-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cherry.png</Source>
+      <Name>Images\cherry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\cherry.xnb</Output>
+      <Time>2013-02-03T05:00:06.570374-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\orange.png</Source>
+      <Name>Images\orange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Images\orange.xnb</Output>
+      <Time>2013-02-03T05:00:06.571374-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\87072__robinhood76__01436-crunch-eat-1.wav</Source>
+      <Name>Audio\eating</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Audio\eating.xnb</Output>
+      <Time>2013-02-04T20:50:57.6567924-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\24039__bebeto__loop022.wav</Source>
+      <Name>Audio\backgroundTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Audio\backgroundTrack.xnb</Output>
+      <Time>2013-02-04T21:20:11.7091185-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\43404__simkiott__record-scratch.wav</Source>
+      <Name>Audio\gameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\Audio\gameOver.xnb</Output>
+      <Time>2013-02-04T21:24:20.3103376-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\SnakeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\SnakeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\2.34\Documents\Visual Studio 2010\Projects\Snake\Snake\Snake\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-06T21:44:30.6203544-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,28 @@
+Anthony Neace Snake Game CS485-003
+
+Content Attribution
+
+-------------------
+
+Images:
+
+- All Sprites were designed by me.
+
+Code:
+
+- Grid class was provided in-class.
+- spriteManager and automated sprite classes based from the examples in our "Learning XNA 4.0" textbook.
+
+Audio:
+
+01436 crunch eat 1.wav
+By "Robinhood76"
+Retrieved from freesound.org under the Attribution Noncommercial "Creative Commons" License.
+
+loop022.wav
+By "bebeto"
+Retrieved from freesound.org under the Attribution Noncommercial "Creative Commons" License.
+
+record_scratch.wav
+By "simkiott"
+Retrieved from freesound.org under the Creative Commons 0 License.
